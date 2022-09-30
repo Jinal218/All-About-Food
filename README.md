@@ -39,7 +39,7 @@ Give ⭐️ to support this project
 
 ![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
-<a href="https://github.com/clubgamma/All-About-Food/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
+<img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
 <br>
 
 </div>
