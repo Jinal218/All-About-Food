@@ -1,0 +1,11 @@
+.responsive-header-slider ul{
+display: none;
+}
+.responsive-header-slider .carousel-status{
+    display: none;
+}
+
+.slides{
+    position: relative;
+    top: 60px;
+}

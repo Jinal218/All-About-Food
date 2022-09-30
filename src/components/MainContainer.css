@@ -1,0 +1,65 @@
+
+.main-box {
+  background-image: url("../img/slide-1.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  top: 0px;
+  color: white;
+}
+ 
+.overlaymyintro {
+  position: absolute;
+  opacity: 0.9;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.544);
+}
+.main-box-logo {
+  margin: auto;
+  width: 50%;
+  position: relative;
+  top: 10%;
+  left: 0%;
+}
+.scroll-down-text {
+  text-align: center;
+  margin-top: 150px;
+  margin-left: auto;
+  font-size: 20px;
+  color: #f4c87a;
+  margin-bottom: 0px;
+}
+.scroll-down-arrow {
+  height: 44px;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+.scroll-down-logo {
+  border: 4px solid #f4c87a;
+  border-width: 4px 4px 0 0;
+  margin-top: -10px;
+  height: 22px;
+  width: 22px;
+  -webkit-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  transform: rotate(135deg);
+  animation: pulse 2s infinite ease-in-out;
+}
+@keyframes pulse {
+  0% {
+    margin-top: 0px;
+  }
+  50% {
+    margin-top: 10px;
+  }
+  100% {
+    margin-top: 0px;
+  }
+}
